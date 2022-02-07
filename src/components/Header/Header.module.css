@@ -1,0 +1,11 @@
+.containerBlock {
+    display: flex;
+    justify-content: center;
+    margin: 50px 0;
+}
+
+.linksBlock {
+    display: flex;
+    justify-content: space-around;
+    width: 200px;
+}
